@@ -12,7 +12,7 @@
 | 免费试用 / 订阅入口 | https://tryrava.com/go?s=github-kuajing |
 | 跨境 VPN 完整指南 | https://tryrava.com/kuajing-vpn |
 | 官方网站 | https://tryrava.com |
-| 官方地址发布页（防失联） | https://github.com/leebnbppp2/rava-links |
+| 官方地址发布页（防失联） | https://github.com/RavaVpn/rava-links |
 
 ## 跨境团队最在意的几件事
 
@@ -77,5 +77,5 @@ Rava 有 100 多个节点，常见国家基本覆盖；没有的可以邮件沟�
 - [跨境 VPN 怎么选：跨境电商团队的网络方案](https://tryrava.com/kuajing-vpn)
 - [VPN 免费试用：3 天怎么试](https://tryrava.com/vpn-free-trial)
 - [ChatGPT / Claude 国内怎么用](https://tryrava.com/chatgpt-guonei-zenme-yong)
-- [Rava VPN 官方介绍](https://github.com/leebnbppp2/rava-vpn)
+- [Rava VPN 官方介绍](https://github.com/RavaVpn/rava-vpn)
 
